@@ -1,4 +1,4 @@
-![alt text](https://github.com/dirklo/dirklo/blob/main/github-header.jpg?raw=true)
+![alt text](https://github.com/dirklo/dirklo/blob/main/github-header-sm.jpg?raw=true)
 ## Hey there! 👋 My name is Rick Moore, and you've stumbled onto my GitHub page!  Feel free to take a look around!
 
 I'm a software engineer and web developer, with a passion for working with superstar teams to create new and innovative technology.  I recently graduated from the online software engineering program at Flatiron School, and I'm looking for work in the tech industry.
