@@ -1,3 +1,4 @@
+![alt text](https://github.com/dirklo/dirklo/blob/main/github-header.jpg?raw=true)
 ## Hey there! 👋 My name is Rick Moore, and you've stumbled onto my GitHub page!  Feel free to take a look around!
 
 - 🔭 I’m currently working on my portfolio projects.
