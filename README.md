@@ -11,6 +11,6 @@ My main stack consists of:
 * HTML5
 * CSS3
 
-I love learning new technologies and finding creative solutions to problems.  Check out the codebases for my project below, including a task management/team delegation application, a pdf sheet-music sharing application, a quiz generation application, and a playable virtual instrument.  
+I love learning new technologies and finding creative solutions to challenging problems.  Check out the codebases for my projects below, including a task management/team delegation application, a pdf sheet-music sharing application, a quiz generation application, and a playable virtual instrument.  
 
 View my full portfolio at http://rickmooredev.com
